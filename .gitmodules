@@ -28,3 +28,6 @@
 [submodule "ultimateCloud"]
 	path = ultimateCloud
 	url = https://github.com/DoubangoTelecom/ultimateCloud.git
+[submodule "compv"]
+	path = compv
+	url = https://github.com/DoubangoTelecom/compv.git
