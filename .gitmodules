@@ -1,6 +1,3 @@
-[submodule "compv"]
-	path = compv
-	url = https://github.com/DoubangoTelecom/compv.git
 [submodule "ultimateBase"]
 	path = ultimateBase
 	url = https://github.com/DoubangoTelecom/ultimateBase.git
