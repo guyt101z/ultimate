@@ -1,33 +1,44 @@
 [submodule "ultimateBase"]
 	path = ultimateBase
 	url = https://github.com/DoubangoTelecom/ultimateBase.git
+	branch = master
 [submodule "ultimateLstm"]
 	path = ultimateLstm
 	url = https://github.com/DoubangoTelecom/ultimateLstm.git
+	branch = master
 [submodule "ultimateText"]
 	path = ultimateText
 	url = https://github.com/DoubangoTelecom/ultimateText.git
+	branch = master
 [submodule "ultimateALPR"]
 	path = ultimateALPR
 	url = https://github.com/DoubangoTelecom/ultimateALPR.git
+	branch = master
 [submodule "ultimateID"]
 	path = ultimateID
 	url = https://github.com/DoubangoTelecom/ultimateID.git
+	branch = master
 [submodule "ultimateCBIR"]
 	path = ultimateCBIR
 	url = https://github.com/DoubangoTelecom/ultimateCBIR.git
+	branch = master
 [submodule "ultimateTTS"]
 	path = ultimateTTS
 	url = https://github.com/DoubangoTelecom/ultimateTTS.git
+	branch = master
 [submodule "ultimateNSFW"]
 	path = ultimateNSFW
 	url = https://github.com/DoubangoTelecom/ultimateNSFW.git
+	branch = master
 [submodule "ultimateADAS"]
 	path = ultimateADAS
 	url = https://github.com/DoubangoTelecom/ultimateADAS.git
+	branch = master
 [submodule "ultimateCloud"]
 	path = ultimateCloud
 	url = https://github.com/DoubangoTelecom/ultimateCloud.git
+	branch = master
 [submodule "compv"]
 	path = compv
 	url = https://github.com/DoubangoTelecom/compv.git
+	branch = master
