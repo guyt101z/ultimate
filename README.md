@@ -10,10 +10,10 @@ make
 ```
 
 ### Online demo apps using our code ###
- - <a class="dropdown-item" target="_blank" href="https://doubango.org/webapps/ocr/">Scene text recognition (TextInWild)</a>
- - <a class="dropdown-item" target="_blank" href="https://doubango.org/webapps/cbir/">Content-Based Image Retrieval (CBIR)</a>
- - <a class="dropdown-item" target="_blank" href="https://doubango.org/webapps/alpr/">Automatic Number Plate Recognition (ANPR/ALPR)</a>
- - <a class="dropdown-item" target="_blank" href="https://doubango.org/webapps/mrz/">Machine-readable zone/passport (MRZ/MRP)</a>
+ - <a target="_blank" href="https://doubango.org/webapps/ocr/">Scene text recognition (TextInWild)</a>
+ - <a target="_blank" href="https://doubango.org/webapps/cbir/">Content-Based Image Retrieval (CBIR)</a>
+ - <a target="_blank" href="https://doubango.org/webapps/alpr/">Automatic Number Plate Recognition (ANPR/ALPR)</a>
+ - <a target="_blank" href="https://doubango.org/webapps/mrz/">Machine-readable zone/passport (MRZ/MRP)</a>
  
  ### Technical questions ###
  Please check our [discussion group](https://groups.google.com/forum/#!forum/doubango-ai)
