@@ -45,3 +45,6 @@
 [submodule "ultimateOCR"]
 	path = ultimateOCR
 	url = https://github.com/DoubangoTelecom/ultimateOCR.git
+[submodule "ultimateMICR"]
+	path = ultimateMICR
+	url = https://github.com/DoubangoTelecom/ultimateMICR.git
