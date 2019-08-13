@@ -42,3 +42,6 @@
 	path = compv
 	url = https://github.com/DoubangoTelecom/compv.git
 	branch = master
+[submodule "ultimateOCR"]
+	path = ultimateOCR
+	url = https://github.com/DoubangoTelecom/ultimateOCR.git
