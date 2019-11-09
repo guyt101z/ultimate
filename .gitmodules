@@ -51,3 +51,6 @@
 [submodule "ultimateALPR-SDK"]
 	path = ultimateALPR-SDK
 	url = https://github.com/DoubangoTelecom/ultimateALPR-SDK
+[submodule "ultimateMRZ"]
+	path = ultimateMRZ
+	url = https://github.com/DoubangoTelecom/ultimateMRZ.git
