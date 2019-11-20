@@ -54,3 +54,7 @@
 [submodule "ultimateMRZ"]
 	path = ultimateMRZ
 	url = https://github.com/DoubangoTelecom/ultimateMRZ.git
+
+[submodule "ultimateMRZ-SDK"]
+	path = ultimateMRZ-SDK
+	url = https://github.com/DoubangoTelecom/ultimateMRZ-SDK.git
