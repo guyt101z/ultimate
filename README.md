@@ -4,6 +4,7 @@ Insanely fast computer vision and deep learning frameworks. Almost entirely writ
 
 ```
 git clone --recurse-submodules https://github.com/DoubangoTelecom/ultimate.git
+cd ultimate && chmod +x ./submodules-update.sh && ./submodules-update.sh
 cd ultimateCloud && mkdir build && cd build
 cmake ..
 make
