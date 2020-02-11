@@ -58,3 +58,6 @@
 [submodule "ultimateMRZ-SDK"]
 	path = ultimateMRZ-SDK
 	url = https://github.com/DoubangoTelecom/ultimateMRZ-SDK.git
+[submodule "ultimateCreditCard"]
+	path = ultimateCreditCard
+	url = https://github.com/DoubangoTelecom/ultimateCreditCard.git
