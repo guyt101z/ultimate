@@ -61,3 +61,6 @@
 [submodule "ultimateCreditCard"]
 	path = ultimateCreditCard
 	url = https://github.com/DoubangoTelecom/ultimateCreditCard.git
+[submodule "ultimateCreditCard-SDK"]
+	path = ultimateCreditCard-SDK
+	url = https://github.com/DoubangoTelecom/ultimateCreditCard-SDK
