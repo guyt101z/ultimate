@@ -67,3 +67,6 @@
 [submodule "ultimateMICR-SDK"]
 	path = ultimateMICR-SDK
 	url = https://github.com/DoubangoTelecom/ultimateMICR-SDK.git
+[submodule "ultimateKYC-SDK"]
+	path = ultimateKYC-SDK
+	url = https://github.com/DoubangoTelecom/ultimateKYC-SDK.git
